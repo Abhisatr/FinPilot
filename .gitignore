@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Documents
+*.pdf
+*.docx
+
+# Environment
+.env
+.env.*
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks (if used)
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Pytest
+.cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Others
+*.sqlite3
