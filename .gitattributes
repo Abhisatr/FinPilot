@@ -1,3 +1,4 @@
 *.pkl filter=lfs diff=lfs merge=lfs -text
-FinPilot/ml/spending_model.pkl !filter !diff !merge -text
-FinPilot/ml/scaler.pkl !filter !diff !merge -text
+ml/spending_model.pkl !filter !diff !merge -text
+ml/scaler.pkl !filter !diff !merge -text
+
